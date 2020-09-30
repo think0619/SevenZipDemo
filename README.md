@@ -1,6 +1,7 @@
 # SevenZipDemo
 
-And 7Zip Demo,by c#.
+And 7zip Demo,by c#.
+
 Compress and uncompress demo
 
 
